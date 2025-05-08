@@ -14,7 +14,7 @@ A simple file upload server built with [Express](https://expressjs.com/) and [Mu
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/huykuka/fileserver.git
 cd file-server
 ```
 
@@ -25,7 +25,7 @@ npm install
 
 ### 3. Start the server
 ```bash
-npm start
+npm run start
 ```
 
 The server will run on [http://localhost:3000](http://localhost:3000).
